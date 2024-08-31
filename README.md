@@ -1,0 +1,1 @@
+The Glassmorphism Login Page is a visually appealing login interface designed using modern web design principles. This design leverages the glassmorphism effect, characterized by its frosted glass appearance, semi-transparency, and blurred background elements. This project is implemented using HTML and CSS, with no JavaScript for logic or interactivity.
